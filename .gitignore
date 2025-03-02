@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэши и временные файлы
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# Локальные конфигурационные файлы
+.env
+*.env
+*.db
+*.sqlite3
+
+# Логи и данные
+logs/
+*.log
+temp/
+tmp/
+
+# Файлы сборки
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Бэкапы и дампы БД
+*.bak
+*.sql
+*.dump
+dump.sql 
